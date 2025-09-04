@@ -12,7 +12,7 @@ Loads json result files and performs operations of choice:
 Requires python and that rmlint program is installed.
 
 Example:
-
+```
 --- rmlint Manager (Python) ---
 Loaded Report: rmlint.json
 -----------------------------------
@@ -32,4 +32,5 @@ Loaded Report: rmlint.json
 
   q. Quit
 
-Enter your choice: 
+Enter your choice:
+```
