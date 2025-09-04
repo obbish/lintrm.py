@@ -1,6 +1,6 @@
-# lintrm.py
+## lintrm.py
 
-** Shell app for rmlint workflows **
+**Shell app for rmlint workflows**
 
 Uses program 'rmlint' to scan folders for duplicate files.
 Saves results to json.
