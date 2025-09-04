@@ -11,7 +11,7 @@ Loads json result files and performs operations of choice:
 
 Requires python and that rmlint program is installed.
 
-Example:
+Demo:
 ```
 --- rmlint Manager (Python) ---
 Loaded Report: rmlint.json
